@@ -1,0 +1,17 @@
+Package: beavermail
+Architecture: amd64
+Version: 0.2.0
+Priority: optional
+Section: mail
+Maintainer: BeaverMail Packages <packages@beavermail.dev>
+Installed-Size: 23546
+Depends: adduser
+Filename: pool/main/b/beavermail/beavermail_0.2.0_amd64.deb
+Size: 9994570
+MD5sum: 23de1cae84fec3e90bf7cca7d2841312
+SHA1: a8c78faeca14dab0d1e7a8113541602752a25f43
+SHA256: 7abd854b0eadd428d9087c861539565dc90eac62685404cfeb695567e4f63263
+SHA512: ca1ce4ca3753065672e658831610672c6a141160c06bded855516d226c1d51ee889539ea7c24febdba2c3bad9aec2dbd3cf0e6ba114678f1b3fef0ab6d4ce9c2
+Homepage: https://github.com/BeaverMail/beavermaild
+Description: Mail server for hosting panels: SMTP, submission, IMAP and an HTTP API.
+
