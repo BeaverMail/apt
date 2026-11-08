@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 08 Nov 2026 21:42:41 +0000
+Label: BeaverMail
+Origin: BeaverMail
+Suite: stable
+MD5Sum:
+ eaf92873359c485f6a450c0361d92e65              695 main/binary-amd64/Packages
+ b19080445e11786060dc63670a178abe              482 main/binary-amd64/Packages.gz
+SHA1:
+ c07b8334d3dfef6f8bd73be0a27663f5e8574dfc              695 main/binary-amd64/Packages
+ a50c480bbf1bf5c70bb61106762eac7ba290bc4b              482 main/binary-amd64/Packages.gz
+SHA256:
+ 1d0ddb58ca3a6c8b97db46674922125928c73adc49d265df85aeadbb882a463e              695 main/binary-amd64/Packages
+ b160f671409e577f9117cd1502e3d1301619b6f8a3c53aa964c4e482a697845d              482 main/binary-amd64/Packages.gz
+SHA512:
+ b435a379b516a79e278460a936127ca887bb001a7025f9213c8479fa39238d32fcb677cf4bf934e073d841c0e908bf254b22946fb333be1c15ab88cdf95b6cbc              695 main/binary-amd64/Packages
+ ad6bdef1d9e1aa6ef51fe64f023bad6f0ca8c358e7f72c9f7d1f085b63aa94559a99b35b7d259eb9dde5d54f4e30dc3d40790a0f5263ce53c5a0c678a2a538fc              482 main/binary-amd64/Packages.gz
